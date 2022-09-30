@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BoolToVisibility (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BoolToVisibility (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
